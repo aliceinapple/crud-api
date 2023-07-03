@@ -46,3 +46,9 @@ hobbies (optional) - New list of user’s hobbies (array of strings).
 
 Options:
 {userId} - User ID. Replace {userId} with your actual user ID.
+
+**Testing** 
+
+- Start the server
+  
+- Run the tests with the command **npm test**
