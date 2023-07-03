@@ -1,4 +1,4 @@
 {
-  "ext": "ts",
-  "exec": "ts-node-dev ./src/server.ts"
+  "watch": ["src"],
+  "exec": "ts-node-dev --transpile-only src/server.ts"
 }
